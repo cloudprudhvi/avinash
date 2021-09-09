@@ -1,2 +1,3 @@
 Hello I am changing in master for rebase
 Hello I am the secon commit
+This is the second rebase command
