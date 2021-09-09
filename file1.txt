@@ -2,3 +2,4 @@ this is to check the difference
 Hello I am the first file
 hello I am the third commit
 hi i am feature-2.
+I am checking the rebase command
